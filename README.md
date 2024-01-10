@@ -145,7 +145,13 @@ To successfully complete the project, we need to perform following tasks:
 <br />
 <br />
 
-16.	Testing Extracts
+16.	Testing Extracts: I tested the extract with following code:
+
+Sentinel Map Query
+
+FAILED_RDP_WITH_GEO_CL | summarize event_count=count() by sourcehost_CF, latitude_CF, longitude_CF, country_CF, label_CF, destinationhost_CF
+| where destinationhost_CF != "samplehost"
+| where sourcehost_CF != ""
 
 <p align="center">
 <img src="https://i.ibb.co/1XzrMYH/25.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
