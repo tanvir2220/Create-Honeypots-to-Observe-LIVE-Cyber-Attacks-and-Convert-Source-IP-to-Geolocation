@@ -144,3 +144,27 @@ To successfully complete the project, we need to perform following tasks:
 <img src="https://i.ibb.co/JxxHvfm/24.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
 <br />
 <br />
+
+16.	Testing Extracts
+
+<p align="center">
+<img src="https://i.ibb.co/1XzrMYH/25.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.ibb.co/P1Qv23Y/21.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
+   
+17.	Setup map in sentinel with Latitude and Longitude (or country)
+
+<p align="center">
+<img src="https://i.ibb.co/CH3t5Zm/20.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.ibb.co/YtNWSL8/22.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
