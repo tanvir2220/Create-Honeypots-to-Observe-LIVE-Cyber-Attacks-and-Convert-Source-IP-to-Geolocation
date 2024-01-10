@@ -37,7 +37,7 @@ To successfully complete the project, we need to perform following tasks:
 11.	Download PowerShell Script
 12.	Get Geolocation.io API Key
 13.	Run Script To get Geo Data from attackers
-14.	Create custom log in LAW to bring in our custom log
+14.	Create custom log in Log Analytics Workspace to bring in our custom log
 15.	Create custom fields/extract fields from raw custom log data
 16.	Testing Extracts
 17.	Setup map in sentinel with Latitude and Longitude (or country)
@@ -121,10 +121,26 @@ To successfully complete the project, we need to perform following tasks:
 <br />
 <br />
 
-14.	Create custom log in LAW to bring in our custom log
+14.	Create custom log in Log Analytics Workspace to bring in our custom log
 
 <p align="center">
 <img src="https://i.ibb.co/fxd1GyD/15.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
 <br />
 <br />
 
+15.	Create custom fields/extract fields from raw custom log data
+
+<p align="center">
+<img src="https://i.ibb.co/Z19S808/16.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.ibb.co/6WKDpVC/23.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.ibb.co/JxxHvfm/24.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
