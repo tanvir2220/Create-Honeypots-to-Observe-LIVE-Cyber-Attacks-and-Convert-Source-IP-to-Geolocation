@@ -41,10 +41,6 @@ To successfully complete the project, we need to perform following tasks:
 15.	Create custom fields/extract fields from raw custom log data
 16.	Testing Extracts
 17.	Setup map in sentinel with Latitude and Longitude (or country)
-18.	Fixing Map plot sizes
-19.	Final check on map
-
-
 
 
 <h2>Program Walk-Through</h2>
@@ -109,5 +105,26 @@ To successfully complete the project, we need to perform following tasks:
 
 10.	Turn off Windows Firewall on VM: Then I turned off Windows Firewall in the Virtual Machine.
 
-11.	Download PowerShell Script: 
+11.	Download PowerShell Script: Now download the PowerShell script from the link https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1. Run the script from VM's Windows PowerShell ISE.
+
+<p align="center">
+<img src="https://i.ibb.co/7SWwC4y/11.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
+
+12.	Get Geolocation.io API Key: However, before running the script in the previous step, we must get our own API key from https://ipgeolocation.io/
+
+13.	Run Script To get Geo Data from attackers: As soon as someone tries to login to honeypot, the log will be saved in C:\ProgramData directory. Itried to login with incorrect password and here's the saved log:
+
+<p align="center">
+<img src="https://i.ibb.co/JrNpC4m/12.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
+
+14.	Create custom log in LAW to bring in our custom log
+
+<p align="center">
+<img src="https://i.ibb.co/fxd1GyD/15.jpg" height="80%" width="80%" alt="Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation"/>
+<br />
+<br />
 
